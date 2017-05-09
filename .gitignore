@@ -1,15 +1,1 @@
-<<<<<<< HEAD
 /build
-*.iml
-*.pro
-=======
-*.iml
-.gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
-.DS_Store
-/build
-/captures
-.externalNativeBuild
->>>>>>> 08a797e2d87939119488433d4ac353fc6c2532c5
